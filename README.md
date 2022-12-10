@@ -12,7 +12,7 @@
 安装运行环境：
 
 1. `jdk1.8` 
-2. `Tomact8`或`Tomcat8.5`
+2. `Tomact8`
 3. `maven3.5`
 
 数据库：MySQL 
